@@ -17,10 +17,6 @@ Minor in Biology
 ### [Teaching]()
 
 
-### [The Blackmon Lab](http://coleoguy.github.io)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Blackmon Lab is in the Biology Department at Texas A&M University. We have two broad areas of inquiry. The first is genome evolution, specifically sex chromosome and structural evolution. The second is the development of methods and databases that accelerate the analysis of data within a quantitative genetic or phylogenetic framework. To address these topics, we use a broad range of approaches including theoretical population genetics, bioinformatics, genomics, and molecular cytogenetics. Although we have projects involving all types of organisms, we often study beetles, and we keep several species in the lab as model organisms.
-
 <hr color = '#fff'>
 
 ### [CV](https://docs.google.com/document/d/1x__x_N1p2K2cdQtj4fG9xxhNSBCTvy_BpAZppW_HBHY/edit?usp=sharing)
