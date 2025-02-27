@@ -1,7 +1,6 @@
 ---
 layout: page
-title: They say curiousity killed the cat
-subitle: I say they have 9 lives for a reason
+title: Nathan W. Anderson
 ---
 PhD Candidate in Integrative Biology <br>
 BS in Applied Mathematics Texas A&M December 2019 
