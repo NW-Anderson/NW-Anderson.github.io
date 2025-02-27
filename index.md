@@ -2,9 +2,8 @@
 layout: page
 title: Nathan W. Anderson
 ---
-BS in Applied Mathematics Texas A&M December 2019: <br>
-Minor in Biology
-
+PhD Candidate in Integrative Biology <br>
+BS in Applied Mathematics Texas A&M December 2019 
 
 ![Nathan Anderson](pic.jpg){:height='473px' width='630px'}
 <hr color = '#fff'>
